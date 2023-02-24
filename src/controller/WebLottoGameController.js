@@ -1,4 +1,3 @@
-import '../../index.css';
 import LottoGame from '../domain/LottoGame';
 import { $, $$ } from '../util/querySelector';
 import LottoValidator from '../validators/LottoValidator';
